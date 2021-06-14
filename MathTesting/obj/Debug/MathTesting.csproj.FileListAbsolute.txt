@@ -1,0 +1,2 @@
+D:\Azure\MathTesting\MathTesting\obj\Debug\MathTesting.csprojAssemblyReference.cache
+D:\Azure\MathTesting\MathTesting\obj\Debug\MathTesting.csproj.CoreCompileInputs.cache
